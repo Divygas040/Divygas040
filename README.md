@@ -21,6 +21,6 @@ I'm using this GitHub profile to document my hands-on cybersecurity and networki
 
 ### 📦 Previous GitHub
 
-Some of my earlier projects are available on my previous GitHub account: **@YOUR-OLD-USERNAME**
+Some of my earlier projects are available on my previous GitHub account: **@Divy-Goswami**
 
 I no longer have access to that account, so all new projects and updates will be published here.
