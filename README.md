@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Divy 👋
 
-<!--
-**Divygas040/Divygas040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building hands-on experience in **Cybersecurity, Network Security, and SOC Operations**.
 
-Here are some ideas to get you started:
+### 🔐 Areas I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Network Security & Firewalls
+* SIEM & Security Monitoring
+* Incident Investigation
+* IPSec VPNs
+* Windows Security
+* Vulnerability Assessment
+
+### 🛠️ Tools & Technologies
+
+Cisco Packet Tracer • Palo Alto • Elastic SIEM • Kali Linux • VirtualBox • PowerShell • KQL
+
+### 📂 Projects
+
+I'm using this GitHub profile to document my hands-on cybersecurity and networking labs, including firewall configuration, VPN implementation, SIEM investigations, and security monitoring.
+
+### 📦 Previous GitHub
+
+Some of my earlier projects are available on my previous GitHub account: **@YOUR-OLD-USERNAME**
+
+I no longer have access to that account, so all new projects and updates will be published here.
